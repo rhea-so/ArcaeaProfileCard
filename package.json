@@ -1,0 +1,22 @@
+{
+  "name": "tstemplate",
+  "version": "1.0.0",
+  "description": "typescript project를 빠르게 시작할 수 있도록 도와주는 template 입니다.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node dist/test.js",
+    "start": "node dist/index.js "
+  },
+  "author": "",
+  "dependencies": {
+    "@types/node": "^14.14.10",
+    "app-module-path": "^2.2.0",
+    "colors": "^1.4.0",
+    "source-map-support": "^0.5.19"
+  },
+  "keywords": [
+    "template"
+  ]
+}
