@@ -14,6 +14,7 @@
     "@types/node": "^14.14.10",
     "app-module-path": "^2.2.0",
     "colors": "^1.4.0",
+    "rhea-runtime": "^0.1.0",
     "source-map-support": "^0.5.19"
   },
   "keywords": [
