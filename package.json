@@ -12,8 +12,11 @@
   "author": "",
   "dependencies": {
     "@types/node": "^14.14.10",
+    "@types/request": "^2.48.5",
     "app-module-path": "^2.2.0",
+    "arcaea-crawler": "^1.0.8",
     "colors": "^1.4.0",
+    "request": "^2.88.2",
     "rhea-runtime": "^0.1.0",
     "source-map-support": "^0.5.19"
   },
